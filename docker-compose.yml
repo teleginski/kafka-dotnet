@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  app:
+    image: app-alpine
+    build:
+      context: .
+    ports:
+      - "80"
+
+networks:
+  default:
+    external:
+      name: cp-all-in-one_default

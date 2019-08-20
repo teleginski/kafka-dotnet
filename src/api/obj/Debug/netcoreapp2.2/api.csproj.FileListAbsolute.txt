@@ -1,0 +1,14 @@
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/Users/teleginski/Projects/kafka-dotnet/src/api/bin/Debug/netcoreapp2.2/api.deps.json
+/Users/teleginski/Projects/kafka-dotnet/src/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/Users/teleginski/Projects/kafka-dotnet/src/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/Users/teleginski/Projects/kafka-dotnet/src/api/bin/Debug/netcoreapp2.2/api.dll
+/Users/teleginski/Projects/kafka-dotnet/src/api/bin/Debug/netcoreapp2.2/api.pdb
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.dll
+/Users/teleginski/Projects/kafka-dotnet/src/api/obj/Debug/netcoreapp2.2/api.pdb

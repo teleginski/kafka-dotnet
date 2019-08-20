@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4BD0593F-9805-4944-8A98-6C386480AA02}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../usr/local/share/dotnet/sdk/2.2.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" Line="270" Column="5" />
+      <File FileName="src/api/appsettings.json" />
+      <File FileName="src/api/appsettings.Development.json" />
+      <File FileName="src/api/Properties/launchSettings.json" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kafka-dotnet" expanded="True">
+            <Node name="api" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
